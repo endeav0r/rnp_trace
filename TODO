@@ -1,0 +1,2 @@
+rnpt.c : ins_str
+	should use tracer_dis
